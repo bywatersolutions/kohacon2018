@@ -4054,7 +4054,7 @@
 		margin-right: auto;
 	}
 
-	@media only screen and (max-width: 980px) and (min-width: 480px)  {
+	@media only screen and (max-width: 1100px) and (min-width: 736px)  {
 		#logo img {
 			display: none
 		}
