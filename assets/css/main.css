@@ -51,6 +51,11 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	#logo img {
+		position: absolute;
+		top: 15px;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
