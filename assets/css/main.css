@@ -51,7 +51,7 @@
 		-webkit-text-size-adjust: none;
 	}
 
-	#logo img {
+	#logo a img {
 		position: absolute;
 		top: 15px;
 	}
