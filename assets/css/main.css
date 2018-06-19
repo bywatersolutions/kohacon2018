@@ -4053,3 +4053,9 @@
 		margin-left: auto;
 		margin-right: auto;
 	}
+
+	@media only screen and (max-width: 10808px) and (min-width: 760px)  {
+		#logo img {
+			display: none
+		}
+	}
