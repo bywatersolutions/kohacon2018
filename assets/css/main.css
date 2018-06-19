@@ -4059,3 +4059,10 @@
 			display: none
 		}
 	}
+
+	@media only screen and (max-width: 736px) {
+		#logo img {
+			position: absolute;
+			top: 8px;
+		}
+	}
