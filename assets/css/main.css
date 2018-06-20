@@ -60,7 +60,12 @@
 		float:left;
 		padding-top:30px;
 	}
-
+	#donate {
+		float: left;
+		margin-top: 35px;
+		font-size: 18px;
+		font-weight: 500;
+	}
 /* Box Model */
 
 	*, *:before, *:after {
