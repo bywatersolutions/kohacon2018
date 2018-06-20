@@ -66,6 +66,13 @@
 		font-size: 18px;
 		font-weight: 500;
 	}
+
+	#donate2 {
+		
+		margin-top: 35px;
+		font-size: 18px;
+		font-weight: 500;
+	}
 /* Box Model */
 
 	*, *:before, *:after {
