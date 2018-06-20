@@ -56,6 +56,11 @@
 		top: 15px;
 	}
 
+	form img {
+		float:left;
+		padding-top:30px;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
