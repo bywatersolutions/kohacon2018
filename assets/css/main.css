@@ -4083,3 +4083,12 @@
 			top: 8px;
 		}
 	}
+
+#sponsorLogo {
+    text-align: center;
+}
+
+#sponsorLogo img {
+    margin-right: 25px;
+}
+
